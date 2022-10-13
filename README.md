@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tankubopa777/tankubopa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
