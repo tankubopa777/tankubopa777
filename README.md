@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=22&pause=1000&color=3062FF&multiline=true&width=435&lines=i'm+just+a+beginner)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankubopa777&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&show_icons=true&theme=tokyonight=center)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
