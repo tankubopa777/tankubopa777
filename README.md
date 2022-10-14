@@ -10,16 +10,23 @@
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=tankubopa777&theme=onestar&no-frame=true&column=3&row=2)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankubopa777&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
