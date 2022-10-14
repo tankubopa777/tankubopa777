@@ -15,8 +15,8 @@
 
 
 ------
+<p align="center"><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)" alt="tankubopa777"  /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 ------
 
