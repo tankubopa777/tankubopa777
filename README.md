@@ -30,8 +30,8 @@
 
 ------
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankubopa777&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tankubopa777theme=algolia" alt="7oSkaaa" /></p>
+
+<p align="center"><img src="![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankubopa777&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="7oSkaaa" /></p>
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
