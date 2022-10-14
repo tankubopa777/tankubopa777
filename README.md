@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Tan</h1>
-<h4 align="center">just a beginner programing from Thammasat university 
+<h4 align="center">just a beginner programer from Thammasat university 
 </div>
 
 <div align="center">
