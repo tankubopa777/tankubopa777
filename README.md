@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
