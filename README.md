@@ -10,9 +10,7 @@
 </div>
 
 -----
-<div style="text-align:center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
- </div>
 -----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankubopa777&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
@@ -21,7 +19,7 @@
 
 -----
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tankubopa777&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-{text-align: center;}
+-----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
