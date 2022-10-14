@@ -11,7 +11,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31ql4qq6em3ggytbxawbzhufgi4e)
 
 ---
 
