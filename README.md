@@ -22,12 +22,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
 
-
-
-------
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tankubopa777&theme=onestar&no-frame=true&column=3&row=2)
-
 ------
 
 
