@@ -19,15 +19,15 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true) -->
 
 
 ------
 
 
-<!-- 
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- -->
+
 
 <!--
 **tankubopa777/tankubopa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
