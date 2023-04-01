@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi I'm Tan</h1>
-<h4 align="center">Just a beginner programer from Thammasat university 
+<h4 align="center">Just a beginner programmer from Thammasat university 
 </div>
 
 <div align="center">
