@@ -31,7 +31,7 @@
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-[![GitHub Streak](https://streak-stats.demolab.com?user=tankubopa777&theme=neon-dark&border_radius=7&locale=ja&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tankubopa777&theme=neon-dark&border_radius=7&locale=ja&card_width=800)](https://git.io/streak-stats)]
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
 <h3 align="left">Languages and Tools</h3>
