@@ -30,7 +30,7 @@
 
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-  <img align = "center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=tankubopa777&theme=neon-dark&border_radius=7&locale=ja&card_width=800)](https://git.io/streak-stats)" />
+  <p><img align = "center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=tankubopa777&theme=neon-dark&border_radius=7&locale=ja&card_width=800)](https://git.io/streak-stats)" alt ="stat"/></p>
 
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
